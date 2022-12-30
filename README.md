@@ -2,7 +2,7 @@
 
 This is a python tools that help you browser on the internet you can also use it for Google dork
 
-![](https://img.shields.io/badge/Author%20-Anongreyhat%20Pro%20Cracker%20-green
+![](https://img.shields.io/badge/Author%20-Anongreyhat%20Pro%20Cracker%20-green)
 
 # Installation
 
